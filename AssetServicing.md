@@ -25,6 +25,30 @@ It was called CASSie (Corporate Action and Securities Services).
 
 
 
+| Account | Description |
+| --- | --- | 
+| Nostro account | My account in your books. |
+| Vostro account | Your account in my books. |
+| Depo account | Securities | 
+
+
+
+	1996 : Depositories act was passed in India. 
+	1997 : National Securities Depository Ltd. (NSDL)
+
+
+
+Reserve Bank of India (RBI) 
+---------------------------
+Custodian for the following 
+
+	Cash 
+	Banking 
+	Foreighn Exchange (FX) system. 
+	Government issued securities. 
+
+	
+
 
 What are the companies in custodian business? 
 ---------------------------------------------
